@@ -1,0 +1,26 @@
+Genel Arama Motorları (Google, Bing, Yandex)
+
+User-agent: *
+Allow: /
+
+Yapay Zeka ve LLM Botları (ChatGPT, Gemini, Claude vb.)
+
+Bu botların menü ve fiyat verilerini okumasına izin veriyoruz.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Site Haritası Yolu
+
+Kendi domain adresinle güncellemeyi unutma!
+
+Sitemap: https://www.google.com/search?q=https://www.siteniz.com/sitemap.xml

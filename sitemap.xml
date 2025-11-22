@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <!-- Ana Sayfa -->
+    <url>
+        <!-- Kendi site adresini buraya yaz -->
+        <loc>https://www.siteniz.com/</loc>
+        <lastmod>2024-11-22</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+
+        <!-- Görsel SEO: Ciğer Şiş -->
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1603360946369-dc9bb6258143?auto=format&fit=crop&w=600&q=80</image:loc>
+            <image:title>Ciğerci Bahattin Afyon Ciğer Şiş</image:title>
+            <image:caption>Afyon Erkmen şubemizde günlük taze kuzu ciğer şiş servisi.</image:caption>
+        </image:image>
+
+        <!-- Görsel SEO: Kebap -->
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80</image:loc>
+            <image:title>Afyon Adana ve Urfa Kebap Çeşitleri</image:title>
+            <image:caption>Zırh kıyması ile hazırlanan özel kebap çeşitlerimiz.</image:caption>
+        </image:image>
+
+        <!-- Görsel SEO: İkramlar -->
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1606471191009-63994c53433b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80</image:loc>
+            <image:title>Ciğerci Bahattin Sınırsız İkramlar</image:title>
+            <image:caption>Masanızı donatan 10 çeşit meze ve sınırsız ikramlarımız.</image:caption>
+        </image:image>
+
+    </url>
+</urlset>
